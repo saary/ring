@@ -1,5 +1,5 @@
 {
-  "name": "ring",
+  "name": "ringjs",
   "version": "0.0.1",
   "description": "A simple ring list implementation",
   "main": "ring.js",
