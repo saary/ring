@@ -1,15 +1,15 @@
-ring
+ring.js
 ====
 
 A simple ring list / buffer for node.js
 
 ### installation
-`npm install ring`
+`npm install ringjs`
 
 ### usage
 ```javascript
 
-var Ring = require('ring');
+var Ring = require('ringjs');
 var ring = new Ring(4); // defines a ring of size 4
 
 // push 14 numbers to list (only the last 4 will remain)
