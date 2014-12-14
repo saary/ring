@@ -1,0 +1,16 @@
+{
+  "name": "ring",
+  "version": "0.0.1",
+  "description": "A simple ring list implementation",
+  "main": "ring.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ring",
+    "buffer",
+    "list"
+  ],
+  "author": "Saar Yahalom",
+  "license": "MIT"
+}
